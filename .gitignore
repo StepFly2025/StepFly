@@ -1,0 +1,13 @@
+.idea
+__pycache__
+.vscode
+.DS_Store
+.cursor
+# incidents/
+*.bin
+*.db
+tsg_copilot_neo_env
+
+logs
+
+trace/
